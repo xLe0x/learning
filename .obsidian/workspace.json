@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "02fe7e6bfbabc25b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc57a8e9daf5e7f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9955c5d25da70268",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e4835c4bb7799c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "706ec044fd3ee26b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69015896f60b3150",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c22ed5169336b459",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b99ecabf74f3dc76",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd421ea638edcb5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b63d4ded07dd770",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b91d3afad7448634",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "838b3de7d426ff2e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7882c8203414a40b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "93717f45e39c4c78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9955c5d25da70268",
+  "lastOpenFiles": [
+    "bugbounty/resources/videos.md",
+    "README.md",
+    "git",
+    "python",
+    "bugbounty/videos/Taking effective notes for CTF, OSCP and other labs [YomvQSKmAIE].mp4",
+    "bugbounty/resources/blogs.md",
+    "bugbounty/pdfs/dirty-recon-1.pdf",
+    "bugbounty/pdfs/dirty-recon-1.pdf.crdownload",
+    "bugbounty/pdfs",
+    "bugbounty/resources",
+    "bugbounty/portswigger/Essential Skills.md",
+    "Untitled.md",
+    "bugbounty/portswigger/advanced/Prototype pollution.md",
+    "bugbounty/portswigger/advanced/JWT attacks.md",
+    "bugbounty/portswigger/advanced/OAuth authentication.md",
+    "bugbounty/portswigger/advanced/HTTP request smuggling.md",
+    "bugbounty/portswigger/advanced/Host Header Attacks.md",
+    "bugbounty/portswigger/advanced/Web cache poisoning.md",
+    "bugbounty/portswigger/advanced/SSTI.md",
+    "bugbounty/portswigger/advanced/GraphQL API.md",
+    "bugbounty/portswigger/advanced/Web LLM attacks.md",
+    "bugbounty/portswigger/advanced/Insecure deserialization.md",
+    "bugbounty/portswigger/client side/WebSockets.md",
+    "bugbounty/portswigger/advanced",
+    "bugbounty/portswigger/client side/DOM-based.md",
+    "bugbounty/portswigger/client side/CSRF.md",
+    "bugbounty/portswigger/client side/CORS.md",
+    "bugbounty/portswigger/client side/Clickjacking.md",
+    "bugbounty/portswigger/client side/XSS.md",
+    "bugbounty/portswigger/server side/SQL injection.md",
+    "bugbounty/portswigger/server side/Path traversal.md",
+    "bugbounty/portswigger/server side/Information disclosure.md",
+    "bugbounty/portswigger/server side/Business logic.md",
+    "bugbounty/portswigger/server side/Untitled",
+    "bugbounty/portswigger/server side/Access control.md",
+    "bugbounty/portswigger/client side"
+  ]
+}
