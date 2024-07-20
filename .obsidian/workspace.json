@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bc57a8e9daf5e7f6",
+        "id": "84cbea990c0f4425",
         "type": "tabs",
         "children": [
           {
-            "id": "9955c5d25da70268",
+            "id": "e13a3fd667c6a90e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bugbounty/portswigger/server side/Access control.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "bd421ea638edcb5e",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bugbounty/portswigger/server side/Access control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bugbounty/portswigger/server side/Access control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,10 +124,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bugbounty/portswigger/server side/Access control.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -135,46 +144,60 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "copilot:Copilot Chat": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "9955c5d25da70268",
+  "active": "e13a3fd667c6a90e",
   "lastOpenFiles": [
+    "bugbounty/portswigger/server side/Authentication.md",
+    "bugbounty/portswigger/server side/Access control.md",
+    "bugbounty/portswigger/server side/API testing.md",
+    "writeups",
+    "bugbounty/portswigger/client side/CORS.md",
+    "bugbounty/portswigger/client side/Clickjacking.md",
+    "bugbounty/portswigger/server side/NoSQL Injection.md",
+    "bugbounty/portswigger/advanced/GraphQL API.md",
+    "bugbounty/checklists",
+    "Recording 20240719192005.webm",
+    "bugbounty/portswigger/server side/Path traversal.md",
+    "banners/mohammad-alizade-4wzRuAb-KWs-unsplash.jpg",
+    "banners/mohammad-alizade-4wzRuAb-KWs-unsplash.jpg.crdownload",
+    "banners/amy-humphries-2M_sDJ_agvs-unsplash.jpg",
+    "banners/amy-humphries-2M_sDJ_agvs-unsplash.jpg.crdownload",
+    "banners/cristina-gottardi-CSpjU6hYo_0-unsplash.jpg",
+    "banners/cristina-gottardi-CSpjU6hYo_0-unsplash.jpg.crdownload",
+    "banners/tom-barrett-7FNOH-qSxMI-unsplash.jpg",
+    "banners/tom-barrett-7FNOH-qSxMI-unsplash.jpg.crdownload",
+    "banners/breno-machado-in9-n0JwgZ0-unsplash.jpg",
+    "banners/breno-machado-in9-n0JwgZ0-unsplash.jpg.crdownload",
+    "banners/urban-vintage-78A265wPiO4-unsplash.jpg",
+    "banners/urban-vintage-78A265wPiO4-unsplash.jpg.crdownload",
+    "banners/harry-cunningham--VOAA8_Y33Y-unsplash.jpg",
+    "banners/harry-cunningham--VOAA8_Y33Y-unsplash.jpg.crdownload",
+    "banners/keanu-k-W7qjxrOvDuc-unsplash.jpg",
+    "2024-07-19.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "bugbounty/portswigger/client side/CSRF.md",
+    "bugbounty/portswigger/server side/Business logic.md",
+    "banners/Ocean moon header _ @curleymariah.jpeg",
+    "banners/Night banner.jpeg",
+    "to learn by order.md",
     "bugbounty/resources/videos.md",
-    "README.md",
-    "git",
-    "python",
-    "bugbounty/videos/Taking effective notes for CTF, OSCP and other labs [YomvQSKmAIE].mp4",
     "bugbounty/resources/blogs.md",
-    "bugbounty/pdfs/dirty-recon-1.pdf",
-    "bugbounty/pdfs/dirty-recon-1.pdf.crdownload",
-    "bugbounty/pdfs",
-    "bugbounty/resources",
+    "pentesting/cheatsheets/reverse shell.md",
+    "README.md",
+    "python/ideas.md",
     "bugbounty/portswigger/Essential Skills.md",
-    "Untitled.md",
     "bugbounty/portswigger/advanced/Prototype pollution.md",
     "bugbounty/portswigger/advanced/JWT attacks.md",
     "bugbounty/portswigger/advanced/OAuth authentication.md",
     "bugbounty/portswigger/advanced/HTTP request smuggling.md",
     "bugbounty/portswigger/advanced/Host Header Attacks.md",
     "bugbounty/portswigger/advanced/Web cache poisoning.md",
-    "bugbounty/portswigger/advanced/SSTI.md",
-    "bugbounty/portswigger/advanced/GraphQL API.md",
-    "bugbounty/portswigger/advanced/Web LLM attacks.md",
-    "bugbounty/portswigger/advanced/Insecure deserialization.md",
-    "bugbounty/portswigger/client side/WebSockets.md",
-    "bugbounty/portswigger/advanced",
-    "bugbounty/portswigger/client side/DOM-based.md",
-    "bugbounty/portswigger/client side/CSRF.md",
-    "bugbounty/portswigger/client side/CORS.md",
-    "bugbounty/portswigger/client side/Clickjacking.md",
-    "bugbounty/portswigger/client side/XSS.md",
-    "bugbounty/portswigger/server side/SQL injection.md",
-    "bugbounty/portswigger/server side/Path traversal.md",
-    "bugbounty/portswigger/server side/Information disclosure.md",
-    "bugbounty/portswigger/server side/Business logic.md",
-    "bugbounty/portswigger/server side/Untitled",
-    "bugbounty/portswigger/server side/Access control.md",
-    "bugbounty/portswigger/client side"
+    "bugbounty/portswigger/advanced/SSTI.md"
   ]
 }

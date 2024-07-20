@@ -1,3 +1,4 @@
+[zWink Tips](https://www.bugcrowd.com/blog/zwinks-tips-and-tricks-to-crush-bug-bounty-1/)
 
 https://bugbountyforum.com/resources/
 

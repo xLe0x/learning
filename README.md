@@ -1,2 +1,1 @@
-# learning
-# learning
+# My notes on bug bounty and pentesing learning journy!
