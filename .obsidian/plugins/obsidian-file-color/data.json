@@ -1,0 +1,131 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "SqWkpouAd-hpqiIxIFWk3",
+      "name": "Done",
+      "value": "#08aa31"
+    },
+    {
+      "id": "s5aUDZC70zgbFPTbkX1bn",
+      "name": "In Progress",
+      "value": "#c28e00"
+    },
+    {
+      "id": "ZDgOwzuGvrfGU0yU1Zf5N",
+      "name": "Not Started",
+      "value": "#b3002d"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "bugbounty/bugs/CORS Misconfiguraton",
+      "color": "SqWkpouAd-hpqiIxIFWk3"
+    },
+    {
+      "path": "bugbounty/bugs/Access control",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/API testing",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Authentication",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Business logic vulnerabilities",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Clickjacking",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Command injection",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/XXE Injection",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/WebSockets",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/XSS",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Web LLM attacks",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Web cache poisoning",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/SSRF",
+      "color": "SqWkpouAd-hpqiIxIFWk3"
+    },
+    {
+      "path": "bugbounty/bugs/SQL Injection",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Server-side template injection",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Race conditions",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Prototype pollution",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/OAuth authentication",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/NoSQL injection",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/JWT attacks",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/Insecure deserialization",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/HTTP request smuggling",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/HTTP Host header attacks",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/GraphQL API vulnerabilities",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/File Upload",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/DOM-based vulnerabilities",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    },
+    {
+      "path": "bugbounty/bugs/CSRF",
+      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 [
-  "obsidian-mind-map",
   "highlightr-plugin",
   "obsidian-banners",
   "obsidian-icon-folder",
-  "copilot",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-hider",
+  "obsidian-file-color"
 ]

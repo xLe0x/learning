@@ -1,4 +1,7 @@
 {
   "cssTheme": "Tokyo Night",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "accentColor": "#b980ff",
+  "baseFontSize": 17
 }

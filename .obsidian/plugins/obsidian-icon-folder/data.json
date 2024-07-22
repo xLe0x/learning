@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBug",
+      "FarImages",
       "LiLockKeyhole",
       "🔒",
       "⚒"
@@ -30,6 +32,6 @@
     "iconIdentifier": ":",
     "debugMode": false
   },
-  "bugbounty/portswigger/server side/API testing.md": "⚒",
-  "bugbounty/portswigger/server side/Authentication.md": "LiLockKeyhole"
+  "banners": "FarImages",
+  "bugbounty": "LiBug"
 }
