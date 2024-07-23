@@ -25,9 +25,6 @@ Access-Control-Allow-Credentials: true
 ```
 ___
 
-
-
-
 ### ما هي ال CORS؟
 
 قبل م نعرف لازم نفهم يعني اي Same Origin Policy
