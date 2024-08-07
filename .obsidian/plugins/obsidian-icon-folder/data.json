@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBug",
-      "FarImages",
-      "LiLockKeyhole",
-      "🔒",
-      "⚒"
+      "SiAiohttp",
+      "TiHttpGet",
+      "SiGraphql",
+      "SiOpenaccess",
+      "TiApi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,8 +30,32 @@
     "iconsInNotesEnabled": true,
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "banners": "FarImages",
-  "bugbounty": "LiBug"
+  "bugbounty": "LiBug",
+  "bugbounty/bugs/CORS Misconfiguraton": "BoBxShareAlt",
+  "bugbounty/bugs/CSRF": "⁉",
+  "bugbounty/bugs/File Upload": "RiFolderUploadFill",
+  "bugbounty/bugs/XXE Injection": "TiFileTypeXml",
+  "bugbounty/bugs/XSS": "TiHtml",
+  "bugbounty/bugs/WebSockets": "SiSocketdotio",
+  "bugbounty/bugs/Web cache poisoning": "OcCache16",
+  "bugbounty/bugs/SSRF": "TiHome",
+  "bugbounty/bugs/SQL Injection": "TiSql",
+  "bugbounty/bugs/Server-side template injection": "LiLayoutTemplate",
+  "bugbounty/bugs/Race conditions": "FasPersonRunning",
+  "bugbounty/bugs/NoSQL injection": "SiMongodb",
+  "bugbounty/bugs/Web LLM attacks": "RiRobot2Fill",
+  "bugbounty/bugs/OAuth authentication": "SiAuth0",
+  "bugbounty/bugs/JWT attacks": "SiJsonwebtokens",
+  "bugbounty/bugs/Command injection": "OcCommandPalette16",
+  "bugbounty/bugs/Clickjacking": "TiClick",
+  "bugbounty/bugs/Authentication": "TiAuth2fa",
+  "bugbounty/bugs/API testing": "TiApi",
+  "bugbounty/bugs/Access control": "SiOpenaccess",
+  "bugbounty/bugs/GraphQL API vulnerabilities": "SiGraphql",
+  "bugbounty/bugs/HTTP Host header attacks": "TiHttpGet",
+  "bugbounty/bugs/HTTP request smuggling": "SiAiohttp"
 }

@@ -1,7 +1,10 @@
 {
-  "cssTheme": "Tokyo Night",
+  "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "baseFontSizeAction": true,
   "accentColor": "#b980ff",
-  "baseFontSize": 17
+  "baseFontSize": 19,
+  "textFontFamily": "IBM Plex Sans Arabic",
+  "interfaceFontFamily": "IBM Plex Sans Arabic",
+  "monospaceFontFamily": "Fira Code"
 }

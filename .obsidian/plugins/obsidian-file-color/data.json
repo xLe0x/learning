@@ -49,7 +49,7 @@
     },
     {
       "path": "bugbounty/bugs/XXE Injection",
-      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+      "color": "s5aUDZC70zgbFPTbkX1bn"
     },
     {
       "path": "bugbounty/bugs/WebSockets",
@@ -125,7 +125,7 @@
     },
     {
       "path": "bugbounty/bugs/CSRF",
-      "color": "ZDgOwzuGvrfGU0yU1Zf5N"
+      "color": "s5aUDZC70zgbFPTbkX1bn"
     }
   ]
 }
