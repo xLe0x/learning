@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bugbounty/bugs/CSRF/videos.md",
+                "file": "bugbounty/bugs/CSRF/notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 288.5
   },
   "right": {
     "id": "bd421ea638edcb5e",
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bugbounty/bugs/CSRF/videos.md",
+                "file": "bugbounty/bugs/CSRF/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bugbounty/bugs/CSRF/videos.md",
+                "file": "bugbounty/bugs/CSRF/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bugbounty/bugs/CSRF/videos.md"
+                "file": "bugbounty/bugs/CSRF/notes.md"
               }
             }
           }
@@ -186,11 +186,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "69015896f60b3150",
+  "active": "54b755306b1eb088",
   "lastOpenFiles": [
+    "bugbounty/bugs/CSRF/writeups.md",
     "bugbounty/bugs/CSRF/notes.md",
+    "bugbounty/bugs/CSRF/images/Pasted image 20240808181823.png",
+    "bugbounty/bugs/CSRF/images",
+    "bugbounty/bugs/CSRF/Untitled.md",
+    "bugbounty/bugs/CSRF/images/Pasted image 20240808181053.png",
     "bugbounty/bugs/CSRF/videos.md",
-    "bugbounty/bugs/CSRF/PoCs.md",
     "bugbounty/bugs/SSRF/notes.md",
     "bugbounty/bugs/XXE Injection/notes.md",
     "bugbounty/bugs/CORS Misconfiguraton/notes.md",
@@ -212,8 +216,6 @@
     "bugbounty/bugs/WebSockets/notes 1 1 1.md",
     "bugbounty/bugs/XSS/notes 1 1.md",
     "bugbounty/bugs/Business logic vulnerabilities/notes.md",
-    "bugbounty/bugs/Authentication/notes.md",
-    "bugbounty/bugs/API testing/notes.md",
     "bugbounty/bugs/SSRF/images/Pasted image 20240721190227.png",
     "bugbounty/bugs/SSRF/images",
     "bugbounty/bugs/CORS Misconfiguraton/images/Pasted image 20240721160252.png",
@@ -227,13 +229,10 @@
     "bugbounty/bugs/Web LLM attacks",
     "bugbounty/bugs/DOM-based vulnerabilities",
     "bugbounty/bugs/Clickjacking",
-    "bugbounty/bugs/Business logic vulnerabilities",
     "banners/amy-humphries-2M_sDJ_agvs-unsplash.jpg",
     "Pasted image 20240719171941.png",
     "Pasted image 20240718143135.png",
     "Pasted image 20240718143604.png",
-    "Pasted image 20240718154930.png",
-    "Pasted image 20240718143443.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
